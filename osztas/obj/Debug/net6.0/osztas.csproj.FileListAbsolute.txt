@@ -1,0 +1,15 @@
+C:\Users\n0xzx3\source\repos\osztas\bin\Debug\net6.0\osztas.exe
+C:\Users\n0xzx3\source\repos\osztas\bin\Debug\net6.0\osztas.deps.json
+C:\Users\n0xzx3\source\repos\osztas\bin\Debug\net6.0\osztas.runtimeconfig.json
+C:\Users\n0xzx3\source\repos\osztas\bin\Debug\net6.0\osztas.dll
+C:\Users\n0xzx3\source\repos\osztas\bin\Debug\net6.0\osztas.pdb
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.csproj.AssemblyReference.cache
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.AssemblyInfoInputs.cache
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.AssemblyInfo.cs
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.csproj.CoreCompileInputs.cache
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.dll
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\refint\osztas.dll
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.pdb
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\osztas.genruntimeconfig.cache
+C:\Users\n0xzx3\source\repos\osztas\obj\Debug\net6.0\ref\osztas.dll

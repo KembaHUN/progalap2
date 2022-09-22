@@ -1,0 +1,15 @@
+C:\Users\n0xzx3\source\repos\kord\bin\Debug\net6.0\kord.exe
+C:\Users\n0xzx3\source\repos\kord\bin\Debug\net6.0\kord.deps.json
+C:\Users\n0xzx3\source\repos\kord\bin\Debug\net6.0\kord.runtimeconfig.json
+C:\Users\n0xzx3\source\repos\kord\bin\Debug\net6.0\kord.dll
+C:\Users\n0xzx3\source\repos\kord\bin\Debug\net6.0\kord.pdb
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.csproj.AssemblyReference.cache
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.AssemblyInfoInputs.cache
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.AssemblyInfo.cs
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.csproj.CoreCompileInputs.cache
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.dll
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\refint\kord.dll
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.pdb
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\kord.genruntimeconfig.cache
+C:\Users\n0xzx3\source\repos\kord\obj\Debug\net6.0\ref\kord.dll
